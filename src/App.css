@@ -1,9 +1,8 @@
-#container {
+.container {
   padding: 30px;
   margin-left: 50px;
 }
 ul {
-  color: blue;
   display: inline-block;
 }
 li {
